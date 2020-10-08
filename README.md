@@ -7,7 +7,7 @@
 
 [`adhocore/lemp`](https://hub.docker.com/r/adhocore/lemp) is a minimal single container LEMP full stack for local development.
 
-> If you want to try out latest PHP8.0 beta head over to [`adhocore/lemp:8.0b`](https://github.com/adhocore/docker-lemp/tree/8.0b).
+> If you want to try out latest PHP8.0 rc head over to [`adhocore/lemp:8.0rc`](https://github.com/adhocore/docker-lemp/tree/8.0rc).
 
 It is quick jumpstart for onboarding you into docker based development.
 
