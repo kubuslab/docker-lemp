@@ -1,6 +1,6 @@
 FROM adhocore/phpfpm:7.4
 
-MAINTAINER Jitendra Adhikari <jiten.adhikary@gmail.com>
+MAINTAINER TimKubus <timkubus@gmail.com>
 
 ENV \
   ADMINER_VERSION=4.7.8

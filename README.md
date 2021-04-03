@@ -7,7 +7,7 @@
 
 [`kubuslab/lemp`](https://hub.docker.com/r/kubuslab/lemp) is a minimal single container LEMP full stack for local development forking from project [`adhocore/lemp`](https://hub.docker.com/r/adhocore/lemp).
 
-> If you want to try out latest PHP8.0 rc head over to [`kubuslab/lemp:8.0rc`](https://github.com/kubuslab/docker-lemp/tree/8.0).
+> If you want to try out latest PHP8.0 rc head over to [`kubuslab/lemp:8.0`](https://github.com/kubuslab/docker-lemp/tree/8.0).
 
 It is quick jumpstart for onboarding you into docker based development.
 
